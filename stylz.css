@@ -33,6 +33,7 @@ body {
   border-radius: 5px;
   padding: 0.5rem;
   position: relative;
+  transition: 0.2s ease;
 }
 .faq-box .faq-questions {
   margin: 1rem 0;
